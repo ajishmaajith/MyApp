@@ -10,10 +10,5 @@ public class EmployeeDetailsApplication {
 		SpringApplication.run(EmployeeDetailsApplication.class, args);
 	}
 //dsfsfsfsdf
-	//asdasd
-	///sdasdasd
-	//sdfsdfsdf
-	//sa
-	//my latest changes by mandu
-	//changes by sundu
+	
 }
